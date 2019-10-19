@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "236576417316",
+    "firebase_url": "https://puwheely.firebaseio.com",
+    "project_id": "puwheely",
+    "storage_bucket": "puwheely.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236576417316:android:293100fc61b94573655ab1",
+        "android_client_info": {
+          "package_name": "com.example.putracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236576417316-f27phke9607c1k29i1bb66373v0f39as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA3_jQdxjUTbLcZkImKQq3gdzvPEKsaG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236576417316-f27phke9607c1k29i1bb66373v0f39as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
